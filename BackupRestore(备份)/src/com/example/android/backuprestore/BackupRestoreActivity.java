@@ -15,7 +15,7 @@
  */
 
 package com.example.android.backuprestore;
-
+//这是一个Activity
 import android.app.Activity;
 import android.app.backup.BackupManager;
 import android.app.backup.RestoreObserver;
